@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aji:home|Door43 (aji)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aji|d43-aji repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aji/archive/master.zip|d43-aji.zip]]
+
+**Recent Changes**
+{{changes>ns = aji}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aji|Ethnologue data]]
+
